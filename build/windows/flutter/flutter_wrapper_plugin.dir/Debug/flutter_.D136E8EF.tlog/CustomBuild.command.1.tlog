@@ -1,0 +1,10 @@
+^C:\USERS\TRISTAN\ONEDRIVE\PROJET\FLUTTER_APPLICATION_2\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Tristan/OneDrive/Projet/flutter_application_2/windows -BC:/Users/Tristan/OneDrive/Projet/flutter_application_2/build/windows --check-stamp-file C:/Users/Tristan/OneDrive/Projet/flutter_application_2/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
