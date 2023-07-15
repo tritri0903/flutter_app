@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Tristan/OneDrive/Projet/flutter_application_2/windows/runner
+# Install script for directory: C:/Users/Tristan/OneDrive/Projet/FlutterProjet/flutter_app/windows/runner
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

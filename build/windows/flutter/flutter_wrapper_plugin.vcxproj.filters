@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\Tristan\OneDrive\Projet\flutter_application_2\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+    <ClCompile Include="C:\Users\Tristan\OneDrive\Projet\FlutterProjet\flutter_app\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Tristan\OneDrive\Projet\flutter_application_2\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+    <ClCompile Include="C:\Users\Tristan\OneDrive\Projet\FlutterProjet\flutter_app\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Tristan\OneDrive\Projet\flutter_application_2\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc">
+    <ClCompile Include="C:\Users\Tristan\OneDrive\Projet\FlutterProjet\flutter_app\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Tristan\OneDrive\Projet\flutter_application_2\windows\flutter\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\Tristan\OneDrive\Projet\FlutterProjet\flutter_app\windows\flutter\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{61D1DC56-FE04-3698-865B-5D1CAD524A41}</UniqueIdentifier>
+      <UniqueIdentifier>{C482D9A3-0F06-3DDA-8E84-3C26E794579F}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{91F2F25C-B9B9-3DD3-9B9C-1C9892BAD245}</UniqueIdentifier>
+      <UniqueIdentifier>{2AE7830B-1C08-32DC-BD34-A2CB2E8C83E1}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

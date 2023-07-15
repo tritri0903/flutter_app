@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Tristan\OneDrive\Projet\flutter_application_2\build\windows\CMakeFiles\6d0f5cfa57ebae86b8de785e1005799a\INSTALL_force.rule">
+    <CustomBuild Include="C:\Users\Tristan\OneDrive\Projet\FlutterProjet\flutter_app\build\windows\CMakeFiles\7dd14fbf480b1215bbd80770836b24fc\INSTALL_force.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{61D1DC56-FE04-3698-865B-5D1CAD524A41}</UniqueIdentifier>
+      <UniqueIdentifier>{C482D9A3-0F06-3DDA-8E84-3C26E794579F}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

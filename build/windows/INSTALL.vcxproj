@@ -18,7 +18,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{9E36D6FE-B35E-3390-832E-B4A0344CF1FB}</ProjectGuid>
+    <ProjectGuid>{7AA3DF74-2CAA-3CB1-BBC9-9D53A6A69F58}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
@@ -100,7 +100,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Tristan\OneDrive\Projet\flutter_application_2\build\windows\CMakeFiles\b874a0c02918321dc27cecf1ccf559c2\INSTALL_force.rule">
+    <CustomBuild Include="C:\Users\Tristan\OneDrive\Projet\FlutterProjet\flutter_app\build\windows\CMakeFiles\f184a39943736d6577ebbd7ba7850c17\INSTALL_force.rule">
       <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'"> </Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
 cd .
@@ -112,7 +112,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\Tristan\OneDrive\Projet\flutter_application_2\build\windows\CMakeFiles\INSTALL_force</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\Tristan\OneDrive\Projet\FlutterProjet\flutter_app\build\windows\CMakeFiles\INSTALL_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</VerifyInputsAndOutputsExist>
       <Message Condition="'$(Configuration)|$(Platform)'=='Profile|x64'"> </Message>
@@ -126,7 +126,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">C:\Users\Tristan\OneDrive\Projet\flutter_application_2\build\windows\CMakeFiles\INSTALL_force</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">C:\Users\Tristan\OneDrive\Projet\FlutterProjet\flutter_app\build\windows\CMakeFiles\INSTALL_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">false</VerifyInputsAndOutputsExist>
       <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'"> </Message>
@@ -140,20 +140,20 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\Tristan\OneDrive\Projet\flutter_application_2\build\windows\CMakeFiles\INSTALL_force</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\Tristan\OneDrive\Projet\FlutterProjet\flutter_app\build\windows\CMakeFiles\INSTALL_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</VerifyInputsAndOutputsExist>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Users\Tristan\OneDrive\Projet\flutter_application_2\build\windows\ZERO_CHECK.vcxproj">
-      <Project>{64CC926E-B985-35E6-8DBB-0BF674E89A4A}</Project>
+    <ProjectReference Include="C:\Users\Tristan\OneDrive\Projet\FlutterProjet\flutter_app\build\windows\ZERO_CHECK.vcxproj">
+      <Project>{66B681C2-91DD-3CA4-A984-482C536CE92E}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\Tristan\OneDrive\Projet\flutter_application_2\build\windows\ALL_BUILD.vcxproj">
-      <Project>{E2F7ACB4-A58E-30B6-8B73-04D8BDB342C9}</Project>
+    <ProjectReference Include="C:\Users\Tristan\OneDrive\Projet\FlutterProjet\flutter_app\build\windows\ALL_BUILD.vcxproj">
+      <Project>{CADF83C1-0C28-3228-A409-86E5FDF01F43}</Project>
       <Name>ALL_BUILD</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
